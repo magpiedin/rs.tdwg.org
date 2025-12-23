@@ -86,7 +86,7 @@ namespaces:
   label: ac:3DResourceType controlled values list
 
   # Description of the term list used in machine-readable metadata.
-  description: This list includes controlled values defined for the Audiovisual Core term ac:3DResourceType.
+  description: This list includes controlled values defined for the Audiovisual Core term ac:3DResourceType
 
   # The following values are used to set up redirects to the list of terms document.
 
