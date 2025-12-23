@@ -26,7 +26,7 @@ Use this term in combination with these other AC terms -- i.e., when:
 - ac:3DResourceType is any of: multi-file projection series, multi-file image slice series, single file volume image
 - and dc:format(s) is any of: ""raw"", dcm, tiff, bmp, png, jpeg, nifti, nrrd, ""zip""
 - and ac:resourceCreationTechnique(s) is any of: CT, MRI, PET, Neutron, Synchotron, confocal microscopy, optical image stacking",,"http://www.w3.org/1999/02/22-rdf-syntax-ns#Property","not in ABCD","Service Access Point Vocabulary","https://github.com/tdwg/ac/issues/243",
-"ac:pixelZSpacing:","Pixel Z Spacing","Resolution: The linear distance between each pixel in the Z direction with units specified by associated Library of Congress Bibframe term, bf:Unit","Use this term in combination with these other AC terms -- i.e., when: 
+"ac:pixelZSpacing","Pixel Z Spacing","Resolution: The linear distance between each pixel in the Z direction with units specified by associated Library of Congress Bibframe term, bf:Unit","Use this term in combination with these other AC terms -- i.e., when: 
 - ac:3DResourceType is any of: multi-file projection series, multi-file image slice series, single file volume image
 - and dc:format(s) is any of: ""raw"", dcm, tiff, bmp, png, jpeg, nifti, nrrd, ""zip""
 - and ac:resourceCreationTechnique(s) is any of: CT, MRI, PET, Neutron, Synchotron, confocal microscopy, optical image stacking",,"http://www.w3.org/1999/02/22-rdf-syntax-ns#Property","not in ABCD","Service Access Point Vocabulary","https://github.com/tdwg/ac/issues/243",
